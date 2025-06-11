@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Vaishnavi and I'm a Student, from India</p>
+<p align="left">My name is Vaishnavi </p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Flutter <br>🎯 Goals: Beautiful Flutter apps<br>🎲 Fun fact: A cloud weighs around a million tonnes</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Flutter <br>🎯 Goals: Beautiful Flutter apps</p>
 
 ###
 
