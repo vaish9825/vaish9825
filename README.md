@@ -16,10 +16,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Flutter <br>🎯 Goals: Beautiful Flutter apps</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
