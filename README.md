@@ -4,8 +4,7 @@
 
 <br>
 
-<h1 align="left">Hey 👋</h1>
-<h3 align="left">Myself Vaishnavi Waghmare - 3rd year student at IIIT Allahabad . </h3>
+<h2 align="left">Myself Vaishnavi Waghmare - 3rd year student at IIIT Allahabad </h2>
 
 <p align="left">
 I am a Full Stack Developer and Machine Learning enthusiast focused on building scalable applications and optimizing deep learning models. I specialize in architecting responsive web and mobile solutions while actively researching transformer-based architectures for predictive modeling. My work bridges the gap between complex backend logic and intuitive user interfaces, backed by a strong foundation in data structures and algorithms.
@@ -18,24 +17,28 @@ I am a Full Stack Developer and Machine Learning enthusiast focused on building 
 
 <br>
 
-<h2 align="left">I code with</h2>
+<h3 align="center">🛠 Languages and Tools</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-e76a24?style=for-the-badge&logo=matlab&logoColor=white" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaish9825&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
-</div>
+
