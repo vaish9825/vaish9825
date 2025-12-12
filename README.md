@@ -11,8 +11,8 @@
 I am a Full Stack Developer and Machine Learning enthusiast focused on building scalable applications and optimizing deep learning models. I specialize in architecting responsive web and mobile solutions while actively researching transformer-based architectures for predictive modeling. My work bridges the gap between complex backend logic and intuitive user interfaces, backed by a strong foundation in data structures and algorithms.
 </p>
 
--  **Development Stack:** I build high-performance web apps using React, Node.js, and PostgreSQL, and cross-platform mobile solutions with Flutter. I deploy scalable cloud infrastructures on AWS and manage containerization with Docker.
--  **Machine Learning:** My focus is on NLP and Computer Vision, specifically fine-tuning Transformer models (DeBERTa) and optimizing data pipelines using PyTorch and NVIDIA DALI.
+-  **Development Stack:** I build high-performance web apps using React, Node.js, and PostgreSQL, and cross-platform mobile solutions with Flutter. 
+-  **Machine Learning:** My focus is on fine-tuning Transformer models (DeBERTa) and optimizing data pipelines using PyTorch and NVIDIA DALI.
 -  **Algorithmic Problem Solving:** I am a Codeforces Specialist (Max Rating: 1527) with over 500+ problems solved on LeetCode, ensuring efficient and optimized code in production environments.
 -  **Key Achievements:** Secured National Rank 17 (Top 1%) in the Amazon ML Challenge 2025 and selected for the Google Student Launchpad 2025.
 
